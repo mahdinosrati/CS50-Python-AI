@@ -48,7 +48,7 @@ To use this repository, follow these steps:
 
 ## Certificate
 
-https://github.com/mahdinosrati/CS50-Python-AI/blob/main/CS50AI.png
+<img src="https://github.com/mahdinosrati/CS50-Python-AI/blob/main/CS50AI.png" alt="CS50 Certificate" >
 
 ## License
 
