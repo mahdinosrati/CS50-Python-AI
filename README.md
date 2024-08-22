@@ -33,7 +33,7 @@ To use this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-```git clone https://github.com/aryanranderiya/cs50-python```
+```git clone https://github.com/mahdinosrati/cs50-python-ai```
 
 2. Navigate to the specific problem set folder you're interested in, e.g., week0, week1, etc.
 
